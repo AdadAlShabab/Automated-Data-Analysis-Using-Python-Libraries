@@ -14,7 +14,6 @@ In the world of data analysis, efficiency and reproducibility are essential. Thi
 - **Sample Datasets**: Access a diverse collection of sample datasets that you can use to practice and apply the automated data analysis techniques demonstrated in this repository.
 
 ## Getting Started
-
 To start automating your data analysis with Python libraries, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
